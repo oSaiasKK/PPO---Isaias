@@ -4,7 +4,7 @@ body {
 
 main{
 display: flex;
-height: 100vh;
+padding-top: 5%;
 justify-content: center;
 align-items: center;
 }
